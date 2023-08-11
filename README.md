@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Biannett Chevalier.
+- 👀 I’m interested in data analysis.
+- 🌱 I’m currently learning how to clean data, create data visualizations, and use tools like SQL and Tableau.
+- 📫 How to reach me: email: biannettchevalier@gmail.com
